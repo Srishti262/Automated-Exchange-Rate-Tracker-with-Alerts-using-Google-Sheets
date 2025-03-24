@@ -31,6 +31,7 @@ This project is a real-world **ETL pipeline** that:
 4. The script is scheduled to run daily via time-based triggers.
 
 ---
+Link to the google sheet: https://docs.google.com/spreadsheets/d/1PddQ5ndKzBKy6N9DP8s20P2-IN3oPzr1sqLnvtldJBM/edit?gid=0#gid=0
 
 ## Files in This Repo
 
